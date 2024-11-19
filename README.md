@@ -17,7 +17,7 @@ Our third KPI compares the total payments received from verified and non-verifie
 
 - Insight: If verified borrowers are consistently making higher total payments compared to non-verified ones, it reinforces the importance of our verification processes in ensuring borrower reliability. On the other hand, if non-verified borrowers are performing well, it may indicate that our current criteria for verification might be too stringent.
 
-  4. State-wise and Month-wise Loan Status:
+4. State-wise and Month-wise Loan Status:
 This KPI examines loan status distribution across different states and months. It helps us understand geographic and temporal patterns in loan performance.
 
 - Insight: By mapping loan status (e.g., current, delinquent, charged-off) across states and months, we can identify regions with higher default rates or months where defaults spike. For example, certain states may consistently show higher delinquency rates, which could be due to local economic conditions, and certain months might exhibit seasonal patterns in defaults.
